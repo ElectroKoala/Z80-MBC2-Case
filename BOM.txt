@@ -1,1 +1,26 @@
+- A spool of PLA filament (1Kg)
+I choose beige as color and black for the LCD bezel, because I wanted to achieve that retro look, but you can go with any color, that's on you.
+1Kg of filament should be enough to print the whole thing.
+
+- Threaded inserts for 3D prints
+That's not absolutely necessary, but I love those things and they are very practical.
+
+- Superglue
+
+- Some wires for the cabling (22AWG or similar size)
+
+- 2 retro style push buttons
+I found them on Aliexpress, this is the description:
+16mm LED Illuminuted Push Button Switch 12/24/220V Momentary Self-locking on Off with Light Square Round Rectangle Power Switch
+
+- 1 toggle switch
+
+- Power supply + Voltage Regulator
+I decided to run everything at 9V, since I couldn't find a 9V adapter with at least 3A, I opted for a 12V 5A external power supply and an internal 9V 5A regulator.
+
+- 8 inch 4:3 VGA LCD Screen
+Found this on Aliexpress also, it's very important that the size of the LCD panel is 183x141mm or it won't fit the bezel.
+
+
+
 
