@@ -1,9 +1,9 @@
 - A spool of PLA filament (1Kg)
-I choose beige as color and black for the LCD bezel, because I wanted to achieve that retro look, but you can go with any color, that's on you.
-1Kg of filament should be enough to print the whole thing.
+I choose beige as the main color and black for the LCD bezel, because I wanted to achieve that retro look, but you can go with any color, that's on you.
+1Kg of filament should be enough to print the whole thing, at least for the main color.
 
 - Threaded inserts for 3D prints
-That's not absolutely necessary, but I love those things and they are very practical.
+That's not absolutely necessary, but I love those things. They look neat, and they are very practical.
 
 - Superglue
 
@@ -17,6 +17,9 @@ I found them on Aliexpress, this is the description:
 
 - Power supply + Voltage Regulator
 I decided to run everything at 9V, since I couldn't find a 9V adapter with at least 3A, I opted for a 12V 5A external power supply and an internal 9V 5A regulator.
+
+- A 2,1mm female power jack
+- 2x 2,1mm male power jack
 
 - 8 inch 4:3 VGA LCD Screen
 Found this on Aliexpress also, it's very important that the size of the LCD panel is 183x141mm or it won't fit the bezel.
