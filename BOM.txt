@@ -1,5 +1,7 @@
 - A spool of PLA filament (1Kg)
-I choose beige as the main color and black for the LCD bezel, because I wanted to achieve that retro look, but you can go with any color, that's on you.
+I choose beige as the main color and black for the LCD bezel, because I wanted to achieve that retro look. 
+But you can go with any color, that's on you.
+
 1Kg of filament should be enough to print the whole thing, at least for the main color.
 
 - Threaded inserts for 3D prints
